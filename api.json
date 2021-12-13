@@ -1,0 +1,28 @@
+[{
+    "status": "OK",
+    "code": 200,
+    "total": 1,
+    "data": [
+        {
+            "firstname": "Eliseo",
+            "lastname": "Schuppe",
+            "email": "towne.jana@hotmail.com",
+            "phone": "+5146164051604",
+            "birthday": "2015-03-18",
+            "gender": "male",
+            "address": {
+                "street": "5010 Viva Land Apt. 306",
+                "streetName": "Alden Courts",
+                "buildingNumber": "7749",
+                "city": "Stantonfurt",
+                "zipcode": "02452",
+                "country": "Botswana",
+                "county_code": "SH",
+                "latitude": -40.380251,
+                "longitude": 14.575625
+            },
+            "website": "http://witting.com",
+            "image": "http://placeimg.com/640/480/people"
+        }
+    ]
+}]
